@@ -1,0 +1,12 @@
+D:\asp.net core\eShopSolution\Doanhuuthanh_web\doanhuuthanh_web.ViewModel\bin\Debug\net7.0\doanhuuthanh_web.ViewModel.deps.json
+D:\asp.net core\eShopSolution\Doanhuuthanh_web\doanhuuthanh_web.ViewModel\bin\Debug\net7.0\doanhuuthanh_web.ViewModel.dll
+D:\asp.net core\eShopSolution\Doanhuuthanh_web\doanhuuthanh_web.ViewModel\bin\Debug\net7.0\doanhuuthanh_web.ViewModel.pdb
+D:\asp.net core\eShopSolution\Doanhuuthanh_web\doanhuuthanh_web.ViewModel\obj\Debug\net7.0\doanhuuthanh_web.ViewModel.csproj.AssemblyReference.cache
+D:\asp.net core\eShopSolution\Doanhuuthanh_web\doanhuuthanh_web.ViewModel\obj\Debug\net7.0\doanhuuthanh_web.ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\asp.net core\eShopSolution\Doanhuuthanh_web\doanhuuthanh_web.ViewModel\obj\Debug\net7.0\doanhuuthanh_web.ViewModel.AssemblyInfoInputs.cache
+D:\asp.net core\eShopSolution\Doanhuuthanh_web\doanhuuthanh_web.ViewModel\obj\Debug\net7.0\doanhuuthanh_web.ViewModel.AssemblyInfo.cs
+D:\asp.net core\eShopSolution\Doanhuuthanh_web\doanhuuthanh_web.ViewModel\obj\Debug\net7.0\doanhuuthanh_web.ViewModel.csproj.CoreCompileInputs.cache
+D:\asp.net core\eShopSolution\Doanhuuthanh_web\doanhuuthanh_web.ViewModel\obj\Debug\net7.0\doanhuuthanh_web.ViewModel.dll
+D:\asp.net core\eShopSolution\Doanhuuthanh_web\doanhuuthanh_web.ViewModel\obj\Debug\net7.0\refint\doanhuuthanh_web.ViewModel.dll
+D:\asp.net core\eShopSolution\Doanhuuthanh_web\doanhuuthanh_web.ViewModel\obj\Debug\net7.0\doanhuuthanh_web.ViewModel.pdb
+D:\asp.net core\eShopSolution\Doanhuuthanh_web\doanhuuthanh_web.ViewModel\obj\Debug\net7.0\ref\doanhuuthanh_web.ViewModel.dll

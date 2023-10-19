@@ -1,0 +1,6 @@
+{
+  "ConnectionStrings": {
+    "doanhuuthanh_webDb": "Server=MSI\\SQLEXPRESS05;Database=doanhuuthanh_web;Trusted_Connection=True;Encrypt=False"
+
+  }
+}

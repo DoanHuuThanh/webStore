@@ -1,0 +1,430 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\asp.net core\\eShopSolution\\Doanhuuthanh_web\\doanhuuthanh_web.backendApi\\doanhuuthanh_web.backendApi.csproj": {}
+  },
+  "projects": {
+    "D:\\asp.net core\\eShopSolution\\Doanhuuthanh_web\\doanhuuthanh_web.Application\\doanhuuthanh_web.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\asp.net core\\eShopSolution\\Doanhuuthanh_web\\doanhuuthanh_web.Application\\doanhuuthanh_web.Application.csproj",
+        "projectName": "doanhuuthanh_web.Application",
+        "projectPath": "D:\\asp.net core\\eShopSolution\\Doanhuuthanh_web\\doanhuuthanh_web.Application\\doanhuuthanh_web.Application.csproj",
+        "packagesPath": "C:\\Users\\thanh\\.nuget\\packages\\",
+        "outputPath": "D:\\asp.net core\\eShopSolution\\Doanhuuthanh_web\\doanhuuthanh_web.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\thanh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\asp.net core\\eShopSolution\\Doanhuuthanh_web\\doanhuuthanh_web.Data\\doanhuuthanh_web.Data.csproj": {
+                "projectPath": "D:\\asp.net core\\eShopSolution\\Doanhuuthanh_web\\doanhuuthanh_web.Data\\doanhuuthanh_web.Data.csproj"
+              },
+              "D:\\asp.net core\\eShopSolution\\Doanhuuthanh_web\\doanhuuthanh_web.Utilities\\doanhuuthanh_web.Utilities.csproj": {
+                "projectPath": "D:\\asp.net core\\eShopSolution\\Doanhuuthanh_web\\doanhuuthanh_web.Utilities\\doanhuuthanh_web.Utilities.csproj"
+              },
+              "D:\\asp.net core\\eShopSolution\\Doanhuuthanh_web\\doanhuuthanh_web.ViewModel\\doanhuuthanh_web.ViewModel.csproj": {
+                "projectPath": "D:\\asp.net core\\eShopSolution\\Doanhuuthanh_web\\doanhuuthanh_web.ViewModel\\doanhuuthanh_web.ViewModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\asp.net core\\eShopSolution\\Doanhuuthanh_web\\doanhuuthanh_web.backendApi\\doanhuuthanh_web.backendApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\asp.net core\\eShopSolution\\Doanhuuthanh_web\\doanhuuthanh_web.backendApi\\doanhuuthanh_web.backendApi.csproj",
+        "projectName": "doanhuuthanh_web.backendApi",
+        "projectPath": "D:\\asp.net core\\eShopSolution\\Doanhuuthanh_web\\doanhuuthanh_web.backendApi\\doanhuuthanh_web.backendApi.csproj",
+        "packagesPath": "C:\\Users\\thanh\\.nuget\\packages\\",
+        "outputPath": "D:\\asp.net core\\eShopSolution\\Doanhuuthanh_web\\doanhuuthanh_web.backendApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\thanh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\asp.net core\\eShopSolution\\Doanhuuthanh_web\\doanhuuthanh_web.Application\\doanhuuthanh_web.Application.csproj": {
+                "projectPath": "D:\\asp.net core\\eShopSolution\\Doanhuuthanh_web\\doanhuuthanh_web.Application\\doanhuuthanh_web.Application.csproj"
+              },
+              "D:\\asp.net core\\eShopSolution\\Doanhuuthanh_web\\doanhuuthanh_web.Data\\doanhuuthanh_web.Data.csproj": {
+                "projectPath": "D:\\asp.net core\\eShopSolution\\Doanhuuthanh_web\\doanhuuthanh_web.Data\\doanhuuthanh_web.Data.csproj"
+              },
+              "D:\\asp.net core\\eShopSolution\\Doanhuuthanh_web\\doanhuuthanh_web.Utilities\\doanhuuthanh_web.Utilities.csproj": {
+                "projectPath": "D:\\asp.net core\\eShopSolution\\Doanhuuthanh_web\\doanhuuthanh_web.Utilities\\doanhuuthanh_web.Utilities.csproj"
+              },
+              "D:\\asp.net core\\eShopSolution\\Doanhuuthanh_web\\doanhuuthanh_web.ViewModel\\doanhuuthanh_web.ViewModel.csproj": {
+                "projectPath": "D:\\asp.net core\\eShopSolution\\Doanhuuthanh_web\\doanhuuthanh_web.ViewModel\\doanhuuthanh_web.ViewModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\asp.net core\\eShopSolution\\Doanhuuthanh_web\\doanhuuthanh_web.Data\\doanhuuthanh_web.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\asp.net core\\eShopSolution\\Doanhuuthanh_web\\doanhuuthanh_web.Data\\doanhuuthanh_web.Data.csproj",
+        "projectName": "doanhuuthanh_web.Data",
+        "projectPath": "D:\\asp.net core\\eShopSolution\\Doanhuuthanh_web\\doanhuuthanh_web.Data\\doanhuuthanh_web.Data.csproj",
+        "packagesPath": "C:\\Users\\thanh\\.nuget\\packages\\",
+        "outputPath": "D:\\asp.net core\\eShopSolution\\Doanhuuthanh_web\\doanhuuthanh_web.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\thanh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "Microsoft.AspNetCore.Hosting.Server.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\asp.net core\\eShopSolution\\Doanhuuthanh_web\\doanhuuthanh_web.Utilities\\doanhuuthanh_web.Utilities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\asp.net core\\eShopSolution\\Doanhuuthanh_web\\doanhuuthanh_web.Utilities\\doanhuuthanh_web.Utilities.csproj",
+        "projectName": "doanhuuthanh_web.Utilities",
+        "projectPath": "D:\\asp.net core\\eShopSolution\\Doanhuuthanh_web\\doanhuuthanh_web.Utilities\\doanhuuthanh_web.Utilities.csproj",
+        "packagesPath": "C:\\Users\\thanh\\.nuget\\packages\\",
+        "outputPath": "D:\\asp.net core\\eShopSolution\\Doanhuuthanh_web\\doanhuuthanh_web.Utilities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\thanh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "Microsoft.AspNetCore.Hosting.Server.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\asp.net core\\eShopSolution\\Doanhuuthanh_web\\doanhuuthanh_web.ViewModel\\doanhuuthanh_web.ViewModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\asp.net core\\eShopSolution\\Doanhuuthanh_web\\doanhuuthanh_web.ViewModel\\doanhuuthanh_web.ViewModel.csproj",
+        "projectName": "doanhuuthanh_web.ViewModel",
+        "projectPath": "D:\\asp.net core\\eShopSolution\\Doanhuuthanh_web\\doanhuuthanh_web.ViewModel\\doanhuuthanh_web.ViewModel.csproj",
+        "packagesPath": "C:\\Users\\thanh\\.nuget\\packages\\",
+        "outputPath": "D:\\asp.net core\\eShopSolution\\Doanhuuthanh_web\\doanhuuthanh_web.ViewModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\thanh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "Microsoft.AspNetCore.Hosting.Server.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

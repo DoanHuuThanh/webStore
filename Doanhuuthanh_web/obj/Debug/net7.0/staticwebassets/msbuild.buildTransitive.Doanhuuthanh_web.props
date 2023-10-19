@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Doanhuuthanh_web.props" />
+</Project>

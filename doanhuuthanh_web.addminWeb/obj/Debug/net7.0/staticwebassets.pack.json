@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\asp.net core\\eShopSolution\\Doanhuuthanh_web\\doanhuuthanh_web.addminWeb\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\doanhuuthanh_web.addminWeb.bundle.scp.css",
+      "PackagePath": "staticwebassets\\doanhuuthanh_web.addminWeb.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\asp.net core\\eShopSolution\\Doanhuuthanh_web\\doanhuuthanh_web.addminWeb\\wwwroot\\assets\\demo\\chart-area-demo.js",
+      "PackagePath": "staticwebassets\\assets\\demo\\chart-area-demo.js"
+    },
+    {
+      "Id": "D:\\asp.net core\\eShopSolution\\Doanhuuthanh_web\\doanhuuthanh_web.addminWeb\\wwwroot\\assets\\demo\\chart-bar-demo.js",
+      "PackagePath": "staticwebassets\\assets\\demo\\chart-bar-demo.js"
+    },
+    {
+      "Id": "D:\\asp.net core\\eShopSolution\\Doanhuuthanh_web\\doanhuuthanh_web.addminWeb\\wwwroot\\assets\\demo\\chart-pie-demo.js",
+      "PackagePath": "staticwebassets\\assets\\demo\\chart-pie-demo.js"
+    },
+    {
+      "Id": "D:\\asp.net core\\eShopSolution\\Doanhuuthanh_web\\doanhuuthanh_web.addminWeb\\wwwroot\\assets\\demo\\datatables-demo.js",
+      "PackagePath": "staticwebassets\\assets\\demo\\datatables-demo.js"
+    },
+    {
+      "Id": "D:\\asp.net core\\eShopSolution\\Doanhuuthanh_web\\doanhuuthanh_web.addminWeb\\wwwroot\\assets\\img\\error-404-monochrome.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\error-404-monochrome.svg"
+    },
+    {
+      "Id": "D:\\asp.net core\\eShopSolution\\Doanhuuthanh_web\\doanhuuthanh_web.addminWeb\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "D:\\asp.net core\\eShopSolution\\Doanhuuthanh_web\\doanhuuthanh_web.addminWeb\\wwwroot\\js\\datatables-simple-demo.js",
+      "PackagePath": "staticwebassets\\js\\datatables-simple-demo.js"
+    },
+    {
+      "Id": "D:\\asp.net core\\eShopSolution\\Doanhuuthanh_web\\doanhuuthanh_web.addminWeb\\wwwroot\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\js\\scripts.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.doanhuuthanh_web.addminWeb.props",
+      "PackagePath": "build\\doanhuuthanh_web.addminWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.doanhuuthanh_web.addminWeb.props",
+      "PackagePath": "buildMultiTargeting\\doanhuuthanh_web.addminWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.doanhuuthanh_web.addminWeb.props",
+      "PackagePath": "buildTransitive\\doanhuuthanh_web.addminWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.doanhuuthanh_web.addminWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

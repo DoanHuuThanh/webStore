@@ -1,0 +1,12 @@
+D:\asp.net core\eShopSolution\Doanhuuthanh_web\doanhuuthanh_web.Utilities\bin\Debug\net7.0\doanhuuthanh_web.Utilities.deps.json
+D:\asp.net core\eShopSolution\Doanhuuthanh_web\doanhuuthanh_web.Utilities\bin\Debug\net7.0\doanhuuthanh_web.Utilities.dll
+D:\asp.net core\eShopSolution\Doanhuuthanh_web\doanhuuthanh_web.Utilities\bin\Debug\net7.0\doanhuuthanh_web.Utilities.pdb
+D:\asp.net core\eShopSolution\Doanhuuthanh_web\doanhuuthanh_web.Utilities\obj\Debug\net7.0\doanhuuthanh_web.Utilities.csproj.AssemblyReference.cache
+D:\asp.net core\eShopSolution\Doanhuuthanh_web\doanhuuthanh_web.Utilities\obj\Debug\net7.0\doanhuuthanh_web.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\asp.net core\eShopSolution\Doanhuuthanh_web\doanhuuthanh_web.Utilities\obj\Debug\net7.0\doanhuuthanh_web.Utilities.AssemblyInfoInputs.cache
+D:\asp.net core\eShopSolution\Doanhuuthanh_web\doanhuuthanh_web.Utilities\obj\Debug\net7.0\doanhuuthanh_web.Utilities.AssemblyInfo.cs
+D:\asp.net core\eShopSolution\Doanhuuthanh_web\doanhuuthanh_web.Utilities\obj\Debug\net7.0\doanhuuthanh_web.Utilities.csproj.CoreCompileInputs.cache
+D:\asp.net core\eShopSolution\Doanhuuthanh_web\doanhuuthanh_web.Utilities\obj\Debug\net7.0\doanhuuthanh_web.Utilities.dll
+D:\asp.net core\eShopSolution\Doanhuuthanh_web\doanhuuthanh_web.Utilities\obj\Debug\net7.0\refint\doanhuuthanh_web.Utilities.dll
+D:\asp.net core\eShopSolution\Doanhuuthanh_web\doanhuuthanh_web.Utilities\obj\Debug\net7.0\doanhuuthanh_web.Utilities.pdb
+D:\asp.net core\eShopSolution\Doanhuuthanh_web\doanhuuthanh_web.Utilities\obj\Debug\net7.0\ref\doanhuuthanh_web.Utilities.dll
